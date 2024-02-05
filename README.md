@@ -1,2 +1,2 @@
 # manage-me
-Manage my mediocre life
+Manage my awesome life
